@@ -1,0 +1,385 @@
+<![LOG[Use settings in registry]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[#####################################################################################]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Application started]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[#####################################################################################]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[PowerShell version: 5.1.22621.3807]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[PowerShell build: 10.0.22621.3807]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[PowerShell CLR: 4.0.30319.42000]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[PowerShell edition: Desktop]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[OS: Windows 10 Pro 10.0.22635.3807]LOG]!><time="12:06:04.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-InitializeModule]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in Compare]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in Copy]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in Documentation]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationCustom]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationHTML]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationMD]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationWord]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in EndpointManager]LOG]!><time="12:06:05.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in EndpointManagerInfo]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in IntuneAssignments]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in IntuneFilterUsage]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in IntuneTools]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in MSALAuthentication]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Using MSAL file C:\TruPrints99\Microsoft\Intune\IntuneManagement-master_Org\Microsoft.Identity.Client.dll. Version: 4.42.1.0]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in MSGraph]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Add settings and menu items]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Change view to Intune Manager]LOG]!><time="12:06:06.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphAuthenticationUpdated]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in EndpointManager]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in MSGraph]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Clear cached values]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Activating View Intune Manager]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-ViewActivated]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ViewActivated in Compare]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ViewActivated in Copy]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ViewActivated in Documentation]LOG]!><time="12:06:07.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Running latest version: 3.9.8]LOG]!><time="12:06:08.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-ShowMainWindow]LOG]!><time="12:06:08.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ShowMainWindow in Compare]LOG]!><time="12:06:08.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ShowMainWindow in Documentation]LOG]!><time="12:06:08.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphAuthenticationUpdated]LOG]!><time="12:06:12.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in EndpointManager]LOG]!><time="12:06:12.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in MSGraph]LOG]!><time="12:06:12.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Clear cached values]LOG]!><time="12:06:12.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphAuthenticationUpdated]LOG]!><time="12:06:15.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in EndpointManager]LOG]!><time="12:06:15.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in MSGraph]LOG]!><time="12:06:15.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Clear cached values]LOG]!><time="12:06:15.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphAuthenticationUpdated]LOG]!><time="12:06:18.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in EndpointManager]LOG]!><time="12:06:18.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in MSGraph]LOG]!><time="12:06:18.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Clear cached values]LOG]!><time="12:06:18.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:06:24.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:06:24.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:06:24.000+000" date="10-27-2024" component="Start-IntuneManagement" context="" type="1" thread="7340" file="Start-IntuneManagement">
+<![LOG[Use settings in registry]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[#####################################################################################]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Application started]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[#####################################################################################]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[PowerShell version: 5.1.22621.3807]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[PowerShell build: 10.0.22621.3807]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[PowerShell CLR: 4.0.30319.42000]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[PowerShell edition: Desktop]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[OS: Windows 10 Pro 10.0.22635.3807]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-InitializeModule]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in Compare]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in Copy]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in Documentation]LOG]!><time="12:09:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationCustom]LOG]!><time="12:09:06.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationHTML]LOG]!><time="12:09:06.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationMD]LOG]!><time="12:09:06.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationWord]LOG]!><time="12:09:06.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in EndpointManager]LOG]!><time="12:09:06.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in EndpointManagerInfo]LOG]!><time="12:09:06.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in IntuneAssignments]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in IntuneFilterUsage]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in IntuneTools]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in MSALAuthentication]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Using MSAL file C:\TruPrints99\Microsoft\Intune\IntuneManagement-master_Org\Microsoft.Identity.Client.dll. Version: 4.42.1.0]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-InitializeModule in MSGraph]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Add settings and menu items]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Change view to Intune Manager]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Add MSAL App 14d82eec-204b-4c2f-b7e8-296a70dab67e https://login.microsoftonline.com/organizations/]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Use Graph environment: graph.microsoft.com]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphAuthenticationUpdated]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in EndpointManager]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in MSGraph]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Clear cached values]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Activating View Intune Manager]LOG]!><time="12:09:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-ViewActivated]LOG]!><time="12:09:08.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Compare]LOG]!><time="12:09:08.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Copy]LOG]!><time="12:09:08.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Documentation]LOG]!><time="12:09:08.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Running latest version: 3.9.8]LOG]!><time="12:09:08.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-ShowMainWindow]LOG]!><time="12:09:08.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ShowMainWindow in Compare]LOG]!><time="12:09:08.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ShowMainWindow in Documentation]LOG]!><time="12:09:08.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Use Graph environment: graph.microsoft.com]LOG]!><time="12:09:11.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Initiate interactive logon]LOG]!><time="12:09:11.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Scopes: https://graph.microsoft.com/.default]LOG]!><time="12:09:11.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Authority: https://login.microsoftonline.com/organizations/]LOG]!><time="12:09:11.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Interactive login with Select account prompt]LOG]!><time="12:09:11.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Deepe4455@M365x14327368.onmicrosoft.com authenticated successfully (Interactively). CorrelationId: 25261d34-e1c5-40b2-8d06-bbfe5656e462]LOG]!><time="12:12:34.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Get current user]LOG]!><time="12:12:34.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Get profile picture]LOG]!><time="12:12:36.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Get organization info]LOG]!><time="12:12:36.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Missing scopes: DeviceManagementConfiguration.ReadWrite.All,Policy.Read.All,Policy.ReadWrite.ConditionalAccess,Application.Read.All,Agreement.ReadWrite.All,DeviceManagementApps.ReadWrite.All,Organization.ReadWrite.All,DeviceManagementRBAC.ReadWrite.All,CloudPC.ReadWrite.All]LOG]!><time="12:12:38.000+000" date="10-27-2024" component="Core" context="" type="2" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphAuthenticationUpdated]LOG]!><time="12:12:38.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in EndpointManager]LOG]!><time="12:12:38.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in MSGraph]LOG]!><time="12:12:38.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Clear cached values]LOG]!><time="12:12:38.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading ADMX Files objects]LOG]!><time="12:13:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Deepe4455@M365x14327368.onmicrosoft.com authenticated successfully (Silent). CorrelationId: 25261d34-e1c5-40b2-8d06-bbfe5656e462]LOG]!><time="12:13:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:01.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:01.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:01.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Administrative Templates objects]LOG]!><time="12:13:03.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:04.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:04.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:04.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="12:13:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="12:13:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="12:13:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="12:13:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="12:13:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="12:13:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="12:13:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="12:13:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading ADMX Files objects]LOG]!><time="12:13:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Android OEM Config objects]LOG]!><time="12:13:16.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:17.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:17.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:17.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading App Configuration (App) objects]LOG]!><time="12:13:18.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:20.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:20.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:20.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading App Configuration (Device) objects]LOG]!><time="12:13:22.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:22.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:22.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:22.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading App Protection objects]LOG]!><time="12:13:24.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:25.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:25.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:25.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Apple Enrollment Types objects]LOG]!><time="12:13:29.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:30.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:30.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:30.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Applications objects]LOG]!><time="12:13:30.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:31.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:31.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:31.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="12:13:41.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="12:13:41.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="12:13:41.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="12:13:41.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="12:13:55.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="12:13:55.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="12:13:55.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="12:13:55.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Compliance Policies - V2 objects]LOG]!><time="12:13:55.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:13:56.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:13:56.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:13:56.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Compliance Scripts objects]LOG]!><time="12:13:59.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:14:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:14:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:14:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:14:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:14:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:14:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Custom Attributes objects]LOG]!><time="12:14:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:14:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:14:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:14:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Device Configuration objects]LOG]!><time="12:14:11.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:14:13.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:14:13.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:14:13.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Change view to Intune Tools]LOG]!><time="12:15:21.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Deactivating View Intune Manager]LOG]!><time="12:15:21.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Activating View Intune Tools]LOG]!><time="12:15:21.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-ViewActivated]LOG]!><time="12:15:22.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Compare]LOG]!><time="12:15:22.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Copy]LOG]!><time="12:15:22.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Documentation]LOG]!><time="12:15:22.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Change view to Intune Info]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Activating View Intune Info]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-ViewActivated]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Compare]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Copy]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Documentation]LOG]!><time="12:15:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Android Google Play objects]LOG]!><time="12:15:33.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:15:34.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:15:34.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:15:35.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Apple Enrollment Tokens objects]LOG]!><time="12:15:37.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:15:38.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:15:38.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:15:38.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Apple VPP Tokens objects]LOG]!><time="12:15:41.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:15:44.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:15:44.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:15:44.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Baseline Templates - Intent objects]LOG]!><time="12:15:45.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:15:47.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:15:47.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:15:47.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Baseline Templates - Settings Catalog objects]LOG]!><time="12:16:04.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:16:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:16:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:16:05.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Tenant Settings objects]LOG]!><time="12:16:07.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:16:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:16:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:16:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="12:16:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="12:16:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="12:16:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="12:16:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Run PreProcess for HTML]LOG]!><time="12:16:42.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Using CSS file C:\TruPrints99\Microsoft\Intune\IntuneManagement-master_Org\Documentation\DefaultHTMLStyle.css]LOG]!><time="12:16:42.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Document one single file for all objects]LOG]!><time="12:16:42.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Filter: ]LOG]!><time="12:16:42.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Run PostProcess for HTML]LOG]!><time="12:16:42.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[C:\Users\Deepe\Documents\DeviEadalaEntraID-2024-10-27.html saved successfully]LOG]!><time="12:16:42.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="12:17:02.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="12:17:02.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="12:17:02.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="12:17:02.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Baseline Templates - Settings Catalog objects]LOG]!><time="12:17:02.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:17:03.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:17:03.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:17:03.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="12:17:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="12:17:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="12:17:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="12:17:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Run PreProcess for HTML]LOG]!><time="12:17:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Using CSS file C:\TruPrints99\Microsoft\Intune\IntuneManagement-master_Org\Documentation\DefaultHTMLStyle.css]LOG]!><time="12:17:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Document one single file for all objects]LOG]!><time="12:17:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Filter: ]LOG]!><time="12:17:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Run PostProcess for HTML]LOG]!><time="12:17:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[C:\Users\Deepe\Documents\DeviEadalaEntraID-2024-10-27.html saved successfully]LOG]!><time="12:17:14.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Run PreProcess for HTML]LOG]!><time="12:17:39.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Using CSS file C:\TruPrints99\Microsoft\Intune\IntuneManagement-master_Org\Documentation\DefaultHTMLStyle.css]LOG]!><time="12:17:39.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Document one file for each object + index file]LOG]!><time="12:17:39.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Filter: ]LOG]!><time="12:17:40.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Run PostProcess for HTML]LOG]!><time="12:17:40.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[C:\Users\Deepe\Documents\DeviEadalaEntraID-2024-10-27.html saved successfully]LOG]!><time="12:17:40.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Baseline Templates - Intent objects]LOG]!><time="12:18:00.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:18:01.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:18:01.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:18:01.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Tenant Settings objects]LOG]!><time="12:18:02.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:18:03.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:18:03.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:18:03.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Android Google Play objects]LOG]!><time="12:18:06.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:18:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:18:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:18:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Baseline Templates - Settings Catalog objects]LOG]!><time="12:18:09.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:18:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:18:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:18:10.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Change view to Intune Tools]LOG]!><time="12:18:24.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Activating View Intune Tools]LOG]!><time="12:18:24.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-ViewActivated]LOG]!><time="12:18:24.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Compare]LOG]!><time="12:18:24.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Copy]LOG]!><time="12:18:24.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Documentation]LOG]!><time="12:18:24.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Change view to Intune Manager]LOG]!><time="12:18:27.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Activating View Intune Manager]LOG]!><time="12:18:28.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-ViewActivated]LOG]!><time="12:18:28.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Compare]LOG]!><time="12:18:28.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Copy]LOG]!><time="12:18:28.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-ViewActivated in Documentation]LOG]!><time="12:18:28.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Feature Updates objects]LOG]!><time="12:18:29.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:18:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:18:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:18:32.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:18:33.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:18:33.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:18:33.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Loading Reusable Settings objects]LOG]!><time="12:18:35.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="12:18:37.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="12:18:37.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="12:18:37.000+000" date="10-27-2024" component="Core" context="" type="1" thread="14728" file="Core">
+<![LOG[Use settings in registry]LOG]!><time="10:47:09.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[#####################################################################################]LOG]!><time="10:47:10.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Application started]LOG]!><time="10:47:10.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[#####################################################################################]LOG]!><time="10:47:10.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[PowerShell version: 5.1.22621.3807]LOG]!><time="10:47:10.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[PowerShell build: 10.0.22621.3807]LOG]!><time="10:47:10.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[PowerShell CLR: 4.0.30319.42000]LOG]!><time="10:47:10.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[PowerShell edition: Desktop]LOG]!><time="10:47:10.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[OS: Windows 10 Pro 10.0.22635.3807]LOG]!><time="10:47:10.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-InitializeModule]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in Compare]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in Copy]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in Documentation]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationCustom]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationHTML]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationMD]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in DocumentationWord]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in EndpointManager]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in EndpointManagerInfo]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in IntuneAssignments]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in IntuneFilterUsage]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in IntuneTools]LOG]!><time="10:47:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in MSALAuthentication]LOG]!><time="10:47:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Using MSAL file C:\TruPrints99\Microsoft\Intune\IntuneManagement-master_Org\Microsoft.Identity.Client.dll. Version: 4.42.1.0]LOG]!><time="10:47:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-InitializeModule in MSGraph]LOG]!><time="10:47:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Add settings and menu items]LOG]!><time="10:47:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Change view to Intune Manager]LOG]!><time="10:47:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Add MSAL App 14d82eec-204b-4c2f-b7e8-296a70dab67e https://login.microsoftonline.com/organizations/]LOG]!><time="10:47:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Use Graph environment: graph.microsoft.com]LOG]!><time="10:47:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Deepe4455@M365x14327368.onmicrosoft.com authenticated successfully (Silent). CorrelationId: ]LOG]!><time="10:47:15.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Get current user]LOG]!><time="10:47:15.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Get profile picture]LOG]!><time="10:47:16.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Get organization info]LOG]!><time="10:47:18.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Missing scopes: DeviceManagementConfiguration.ReadWrite.All,Policy.Read.All,Policy.ReadWrite.ConditionalAccess,Application.Read.All,Agreement.ReadWrite.All,DeviceManagementApps.ReadWrite.All,Organization.ReadWrite.All,DeviceManagementRBAC.ReadWrite.All,CloudPC.ReadWrite.All]LOG]!><time="10:47:19.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="2" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphAuthenticationUpdated]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in EndpointManager]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphAuthenticationUpdated in MSGraph]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Clear cached values]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Activating View Intune Manager]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-ViewActivated]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ViewActivated in Compare]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ViewActivated in Copy]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ViewActivated in Documentation]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Running latest version: 3.9.8]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-ShowMainWindow]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ShowMainWindow in Compare]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-ShowMainWindow in Documentation]LOG]!><time="10:47:20.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading Administrative Templates objects]LOG]!><time="10:47:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Deepe4455@M365x14327368.onmicrosoft.com authenticated successfully (Silent). CorrelationId: fdb88d91-6e1c-4773-8005-fc2a83bc21a4]LOG]!><time="10:47:50.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="10:47:53.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="10:47:53.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="10:47:53.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="10:48:00.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="10:48:00.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="10:48:00.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="10:48:00.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading FireFox Home Page]LOG]!><time="10:49:16.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-EMSelectedItemsChanged]LOG]!><time="10:49:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Compare]LOG]!><time="10:49:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in Documentation]LOG]!><time="10:49:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-EMSelectedItemsChanged in EndpointManager]LOG]!><time="10:49:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading ADMX Files objects]LOG]!><time="10:49:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="10:49:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="10:49:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="10:49:49.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading Android OEM Config objects]LOG]!><time="10:49:51.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="10:49:54.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="10:49:54.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="10:49:54.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading App Configuration (App) objects]LOG]!><time="10:49:54.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="10:49:56.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="10:49:56.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="10:49:56.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading App Configuration (Device) objects]LOG]!><time="10:49:59.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="10:50:00.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="10:50:00.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="10:50:00.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading App Protection objects]LOG]!><time="10:50:02.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="10:50:04.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="10:50:04.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="10:50:04.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading Apple Enrollment Types objects]LOG]!><time="10:50:05.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="10:50:07.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="10:50:07.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="10:50:07.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Loading Applications objects]LOG]!><time="10:50:11.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger function Invoke-GraphObjectsChanged]LOG]!><time="10:50:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in Documentation]LOG]!><time="10:50:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
+<![LOG[Trigger Invoke-GraphObjectsChanged in EndpointManager]LOG]!><time="10:50:12.000+000" date="10-28-2024" component="Start-IntuneManagement" context="" type="1" thread="10352" file="Start-IntuneManagement">
