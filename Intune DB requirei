@@ -1,0 +1,93 @@
+best Intune dashboard using powerBI
+
+Creating an effective Intune dashboard using Power BI involves several key steps and considerations. Here's a comprehensive guide to building one of the best Intune dashboards using Power BI:
+
+## Data Source
+
+The primary data source for your Intune dashboard should be the Intune Data Warehouse. This provides a comprehensive set of data tables with relations that you can use for reporting purposes[1]. To access this:
+
+1. Open Power BI Desktop
+2. Select "Get data"
+3. Search for "Intune Data Warehouse" and connect
+4. Authenticate with your account
+5. Select the tables you need for reporting[1]
+
+## Key Components
+
+A robust Intune dashboard should include the following components:
+
+### Device Overview
+- Total number of devices
+- Devices by operating system
+- Devices by ownership (corporate vs. personal)
+- Device compliance status
+
+### User Overview
+- Total number of users
+- User adoption rates
+- User-to-device ratio
+
+### Compliance
+- Overall compliance rate
+- Compliance by policy
+- Non-compliant devices by reason
+
+### App Management
+- App installation status
+- App usage statistics
+- App versions in use
+
+### Configuration Profiles
+- Profile deployment status
+- Profile assignment overview
+
+### Security
+- Encryption status
+- Threat detection metrics
+- Risk levels of devices
+
+## Design Considerations
+
+1. Use a variety of visualizations (charts, graphs, tables) to present data effectively.
+2. Implement filters and slicers to allow for dynamic data exploration.
+3. Use color coding consistently to highlight important information.
+4. Create separate pages or tabs for different aspects (e.g., devices, users, compliance, apps).
+
+## Advanced Features
+
+To take your dashboard to the next level:
+
+1. Implement real-time or near real-time data refresh using Power Automate[2].
+2. Use DAX (Data Analysis Expressions) for complex calculations and metrics.
+3. Incorporate data from other sources like Azure AD or Microsoft 365 for a more comprehensive view.
+
+## Template Option
+
+For a quick start, you can use pre-built templates. Jannik Reinhard, a Microsoft MVP, has created a comprehensive Intune dashboard template that you can download and customize[1][4]. This template includes:
+
+- App view
+- Device view
+- Configuration profile view
+
+To use this template:
+1. Download it from Jannik's GitHub repository
+2. Open in Power BI Desktop
+3. Refresh the data
+4. Sign in with your credentials[1]
+
+## Continuous Improvement
+
+Remember that building an effective dashboard is an iterative process. Regularly gather feedback from users and stakeholders to refine and improve your dashboard over time.
+
+By following these guidelines and leveraging the power of Power BI, you can create a comprehensive and insightful Intune dashboard that provides valuable insights into your device management environment.
+
+Citations:
+[1] Build PowerBi Dashboard based on Intune Data Warehouse https://jannikreinhard.com/2022/07/10/build-powerbi-dashboard-based-on-intune-data-warehouse/
+[2] MEM report dashboards with Power Automate and Power BI https://uem4all.com/2020/08/03/mem-reporting/
+[3] Intune and PowerBI Deep Dive - Part 1 - Where to Start https://deploymentshare.com/articles/bp-1-pbi-intune/
+[4] How to make Intune reports with Power BI - YouTube https://www.youtube.com/watch?v=EdqvBKJV7kc
+[5] Connect to the Data Warehouse with Power BI - Microsoft Intune https://learn.microsoft.com/en-us/mem/intune/developer/reports-proc-get-a-link-powerbi
+[6] Easily Create Power BI Reports with the Intune Data Warehouse https://www.youtube.com/watch?v=2ICPKRBIews
+[7] Integrate Power BI with Intune and Create Reports using Power BI https://www.anoopcnair.com/create-reports-integrate-power-bi-with-intune/
+[8] Create an Intune report from the OData feed with Power BI https://learn.microsoft.com/en-us/mem/intune/developer/reports-proc-create-with-odata
+[9] How to Leverage Intune Data and Write a Basic Power BI Report https://askgarth.com/blog/how-to-leverage-intune-data-and-write-a-basic-power-bi-report/
