@@ -1,0 +1,65 @@
+The "InfraShieldAI" refers to a new feature within Microsoft Intune that leverages the power of artificial intelligence (AI) from GPT (Generative Pre-trained Transformer) technology to significantly simplify and expedite the process of diagnosing and resolving issues related to managed devices within an organization, allowing administrators to troubleshoot complex device problems by asking questions in plain language, similar to a conversational interface
+
+https://jannikreinhard.com/tag/gpt/
+https://jannikreinhard.com/category/ai/
+https://jannikreinhard.com/2024/08/25/azure-ai-search-deploying-a-powerful-ai-powered-search-engine/
+https://jannikreinhard.com/2024/07/28/ime-log-summarizer/
+https://jannikreinhard.com/category/analytics-and-automation/
+https://github.com/Azure-Samples/openai-end-to-end-baseline?tab=readme-ov-file
+https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?tabs=azure-cli
+
+https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?tabs=azure-cli
+
+https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?pivots=programming-language-studio&tabs=azure-openai%2Cturbo%2Cpython-new
+
+Here's a list of the resources I have to assist with your questions:
+
+  https://github.com/orgs/MicrosoftDocs/repositories?language=&sort=stargazers&type=all&q=sort%3Astars
+Microsoft Azure Documentation : to build and manage powerful applications using Microsoft Azure cloud services
+Azure Architecture Center: 
+PowerShell-Docs Documentation : repository of the official PowerShell documentation.
+Windows Terminal Documentation: Includes details on configuring and customizing Windows Terminal, command bindings, and actions​.
+Windows Subsystem for Linux (WSL) Documentation
+Machine Learning Basics
+PowerShell Documentation
+Virtualization-Documentation
+repo for the Microsoft 365 documentation
+Technical Documentation for Microsoft Power Apps
+Content on sysinternals
+repo for the fabric-docs-pr pair
+powerbi-docs
+Windows Client, Server, and MDOP PowerShell module documentation.
+Microsoft Entra documentation
+SharePoint Server, SharePoint Online, and OneDrive for Business documentation
+Supplemental information and resources for the Security Benchmark documentation 
+Public contributions for win32 API documentation
+Public content repository for Windows Server content.
+
+Documentation for Microsoft Power Platform
+Microsoft Teams developer platform documentation.
+Public repository for Microsoft Power Query documentation
+Query examples using the Azure Log Analytics query language
+Public repo for CloudAppSecurityDocs-pr
+
+https://github.com/MicrosoftDocs/LogAnalyticsExamples/tree/master
+
+This repository is used for Windows client for IT Pro content 
+Public content repository for Windows Server content.
+
+Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) , SQL Server Data Tools (SSDT) etc.
+
+
+Windows Client Troubleshooting Documentation: A comprehensive library covering troubleshooting for Windows client environments, including guides for networking, storage, virtualization, user experience, performance, and security​.
+
+PowerShell 5.1 Documentation: Provides extensive details on PowerShell 5.1, including command syntax, available modules, script development, and language constructs​.
+
+Win32 Desktop Application Documentation: Resources for building and maintaining desktop applications using the Win32 API, along with guides for integrating with modern Windows features​.
+
+Windows Security Documentation: Covers security features in Windows 10 and 11, such as Zero Trust, credential protection, application security, and Microsoft Defender​.
+
+Windows System Error Codes: A complete list of Windows system error codes with explanations, helpful for diagnosing and resolving system errors​.
+
+Sysinternals Documentation: Documentation for Sysinternals tools, useful for system monitoring, diagnostics, and troubleshooting. This includes utilities like Process Explorer, Sysmon, and others​.
+
+Windows Configuration Documentation: Guidance for configuring Windows clients, including customization of the Start menu, taskbar, and policies for organizational deployment on Windows 10 and 11 devices​.
+
