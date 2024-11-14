@@ -1,5 +1,20 @@
 The "InfraShieldAI" refers to a new feature within Microsoft Intune that leverages the power of artificial intelligence (AI) from GPT (Generative Pre-trained Transformer) technology to significantly simplify and expedite the process of diagnosing and resolving issues related to managed devices within an organization, allowing administrators to troubleshoot complex device problems by asking questions in plain language, similar to a conversational interface
 
+Important  ***
+https://techcommunity.microsoft.com/blog/educatordeveloperblog/evaluate-fine-tuned-phi-3--3-5-models-in-azure-ai-studio-focusing-on-microsofts-/4227850/replies/4267939
+for therory ** 
+https://techcommunity.microsoft.com/blog/educatordeveloperblog/evaluate-fine-tuned-phi-3--3-5-models-in-azure-ai-studio-focusing-on-microsofts-/4227850
+
+https://techcommunity.microsoft.com/blog/educatordeveloperblog/teach-chatgpt-to-answer-questions-using-azure-ai-search--azure-openai-lang-chain/3969713
+
+https://ml.azure.com/registries/models?tid=7b706d38-e9d4-4d92-9451-b1b25fbff92f
+https://ai.azure.com/explore/benchmarks?tid=7b706d38-e9d4-4d92-9451-b1b25fbff92f
+****
+https://techcommunity.microsoft.com/blog/educatordeveloperblog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-step-by-step-guide/4178612
+
+
+https://luke.geek.nz/azure/openai-adoption-challenges-solutions/
+
 https://jannikreinhard.com/tag/gpt/
 https://jannikreinhard.com/category/ai/
 https://jannikreinhard.com/2024/08/25/azure-ai-search-deploying-a-powerful-ai-powered-search-engine/
@@ -11,6 +26,9 @@ https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?t
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?tabs=azure-cli
 
 https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?pivots=programming-language-studio&tabs=azure-openai%2Cturbo%2Cpython-new
+
+
+
 
 Here's a list of the resources I have to assist with your questions:
 
